@@ -1,7 +1,7 @@
 package com.example.git;
 
 public class Test {
-	//feature 1
+	//feature 1 updated
 	//feature 2 added
 	//fature 3
 
